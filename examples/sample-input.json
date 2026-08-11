@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "text": "Declarative chaos for compose/k8s"
+    },
+    {
+      "text": "zAx4hub fixture"
+    }
+  ],
+  "threshold": 0.25,
+  "baseline": "open source"
+}

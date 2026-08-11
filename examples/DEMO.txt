@@ -1,0 +1,7 @@
+Chaos Cookbook — 60s demo
+
+Pain: Declarative chaos for compose/k8s
+
+npm install && npm test && npm run demo
+
+Credits: zAx4hub
